@@ -29,6 +29,7 @@ drag and drop them into the this field. Keep videos as short as possible.
 
 **Game and system information**
 - Game version: *Found in-game on any menu, bottom left side.*
+- Launch options: *Paste your launch options here. If there is nothing in the field, do not paste anything*
 - OS:
 - CPU:
 - GPU:
